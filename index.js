@@ -46,6 +46,6 @@ app.use(checkPasskey);
 app.use(express.json());
 app.use('/api/client', sessionRoutes);
 
-app.listen(PORT, () => {
+app.listen(PORT|process.env.PORT, () => {
     console.log(`Server running on port ${PORT}`);
 });
