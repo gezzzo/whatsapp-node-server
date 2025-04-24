@@ -1,2 +1,3 @@
-2025/04/20-14:52:44.578 24f8 Creating DB /home/gezo/Downloads/whatsapp/.wwebjs_auth/session-gezo/Default/shared_proto_db since it was missing.
-2025/04/20-14:52:44.585 24f8 Reusing MANIFEST /home/gezo/Downloads/whatsapp/.wwebjs_auth/session-gezo/Default/shared_proto_db/MANIFEST-000001
+2025/04/24-16:15:37.623 71e7 Reusing MANIFEST /home/gezo/Downloads/whatsapp (1)/whatsapp/.wwebjs_auth/session-gezo/Default/shared_proto_db/MANIFEST-000001
+2025/04/24-16:15:37.623 71e7 Recovering log #3
+2025/04/24-16:15:37.623 71e7 Reusing old log /home/gezo/Downloads/whatsapp (1)/whatsapp/.wwebjs_auth/session-gezo/Default/shared_proto_db/000003.log 

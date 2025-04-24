@@ -1,11 +1,13 @@
-2025/04/20-16:36:32.649 44bb Reusing MANIFEST /home/gezo/Downloads/whatsapp (1)/whatsapp/.wwebjs_auth/session-gezo/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/04/20-16:36:32.649 44bb Recovering log #45
-2025/04/20-16:36:32.677 44bb Reusing old log /home/gezo/Downloads/whatsapp (1)/whatsapp/.wwebjs_auth/session-gezo/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000045.log 
-2025/04/20-16:36:35.650 44f2 Level-0 table #50: started
-2025/04/20-16:36:35.659 44f2 Level-0 table #50: 151746 bytes OK
-2025/04/20-16:36:35.665 44f2 Delete type=0 #45
-2025/04/20-16:36:35.665 44bb Manual compaction at level-0 from '\x00\x1a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1b\x00\x00\x00' @ 0 : 0; will stop at (end)
-2025/04/20-16:36:41.378 44c0 Compacting 1@1 + 1@2 files
-2025/04/20-16:36:41.469 44c0 Generated table #51@1: 23354 keys, 1011331 bytes
-2025/04/20-16:36:41.469 44c0 Compacted 1@1 + 1@2 files => 1011331 bytes
-2025/04/20-16:36:41.472 44c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/24-17:59:59.080 85b6 Reusing MANIFEST /home/gezo/Downloads/whatsapp (1)/whatsapp/.wwebjs_auth/session-gezo/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/24-17:59:59.087 85b6 Recovering log #63
+2025/04/24-17:59:59.196 85b6 Reusing old log /home/gezo/Downloads/whatsapp (1)/whatsapp/.wwebjs_auth/session-gezo/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000063.log 
+2025/04/24-18:00:10.008 85a6 Level-0 table #68: started
+2025/04/24-18:00:10.027 85a6 Level-0 table #68: 69963 bytes OK
+2025/04/24-18:00:10.032 85a6 Delete type=0 #63
+2025/04/24-18:00:10.036 85a6 Manual compaction at level-0 from '\x00\x1e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/24-18:00:35.271 85a9 Compacting 1@1 + 1@2 files
+2025/04/24-18:00:35.578 85a9 Generated table #69@1: 29348 keys, 1246423 bytes
+2025/04/24-18:00:35.578 85a9 Compacted 1@1 + 1@2 files => 1246423 bytes
+2025/04/24-18:00:35.583 85a9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/24-18:00:35.584 85a9 Delete type=2 #65
+2025/04/24-18:00:35.584 85a9 Delete type=2 #68
