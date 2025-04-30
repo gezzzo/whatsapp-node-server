@@ -1,0 +1,6 @@
+{
+  "callbackUrl": "http://127.0.0.1:8000/api/webhook",
+  "deleted": false,
+  "loadMessages": true,
+  "messageCallbackUrl": "http://127.0.0.1:8000/api/webhook/message"
+}

@@ -1,6 +1,0 @@
-{
-  "callbackUrl": "https://whatsapp.drgezo.com/api/webhook",
-  "deleted": false,
-  "loadMessages": true,
-  "messageCallbackUrl": "https://whatsapp.drgezo.com/api/webhook/message"
-}
